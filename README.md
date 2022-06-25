@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bij01
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python, html, css, javascript
+- 👀 I’m interested in java, python
+- 🌱 I’m currently learning java, python, html, css, javascript
 - 💞️ I’m looking to collaborate on web, app developers
 - 📫 How to reach me - send a email -> bij0126@gmail.com
 
